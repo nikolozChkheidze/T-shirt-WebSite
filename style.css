@@ -1,0 +1,17 @@
+header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    width: 100vw;
+    height: 154px;
+    background-color: #FFFFFF;
+}
+#smallBar{
+  display: flex;
+  background-color: DodgerBlue;
+  justify-content: center;
+  gap: 500px;
+}
+
+
