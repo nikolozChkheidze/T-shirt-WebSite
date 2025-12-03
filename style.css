@@ -9,9 +9,26 @@ header{
 }
 #smallBar{
   display: flex;
-  background-color: DodgerBlue;
+  background-color: #F8F8F8;
   justify-content: center;
   gap: 500px;
 }
-
-
+#largeBar{
+  display: flex;
+}
+#nav{
+  display: flex;
+  position: relative;
+  align-items: center;
+  
+  left: 240px;
+  width: 576px;
+  height: 98px;
+  gap: 30px ;
+  background-color: blue;
+}
+#logo{
+  display: inline;
+  position: relative;
+  left: 816px;
+}
